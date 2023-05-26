@@ -1,3 +1,3 @@
 # pizza-query
 
-Curso de Databricks e Apache spark do Téo.
+Projeto para o curso de Databricks e Apache spark do Téo.
